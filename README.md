@@ -1,6 +1,6 @@
 # Lebron James: The New Michael Jordan
 
-## Can we find any interesting insights from analyzing LeBron James's stats (2003-2022)?
+## Question: Can we find any interesting insights from analyzing LeBron James's stats (2003-2022)?
 
 ### The PDF file walks through our methods and findings. Below is a summary:
 
