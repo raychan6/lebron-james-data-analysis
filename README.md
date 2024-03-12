@@ -11,3 +11,18 @@
 
 <br>
 
+| ![](https://github.com/raychan6/lebron-james-data-analysis/blob/main/images/plus-minus-by-opponent.png) |
+|:--:|
+| *Plus/Minus by Opponent* |
+
+<br> 
+
+| ![](https://github.com/raychan6/lebron-james-data-analysis/blob/main/images/ts-across-age.png) |
+|:--:|
+| *TS% across Age* |
+
+<br>
+
+| ![](https://github.com/raychan6/lebron-james-data-analysis/blob/main/images/game-score-by-minutes.png) |
+|:--:|
+| *Game Score across Minutes* |
