@@ -25,4 +25,4 @@
 
 | ![](https://github.com/raychan6/lebron-james-data-analysis/blob/main/images/game-score-by-minutes.png) |
 |:--:|
-| *Game Score across Minutes* |
+| *Game Score across Minutes and Location* |
