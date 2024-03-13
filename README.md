@@ -1,4 +1,4 @@
-# Lebron James: The New Michael Jordan
+# Lebron James: The New Michael Jordan?
 
 ## Question: Can we find any interesting insights from analyzing LeBron James's stats (2003-2022)?
 
